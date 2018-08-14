@@ -141,7 +141,7 @@ This example targets an ID `profile-picture` to change the width:
 
 ###### CSS Grid
 
-Its best practice now days to make sure your site if mobile responsive. It used to be common to use a 3rd party libray like Bootstrap to make a grid system to change where content is placed on a website depending on the size of the screen. It was also possible to do this using some simple matha and [media queries](), but now its even sipler and easy to do with [CSS Grid]()!
+Its best practice now days to make sure your site if mobile responsive. It used to be common to use a 3rd party libray like Bootstrap to make a grid system to change where content is placed on a website depending on the size of the screen. It was also possible to do this using some simple matha and [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), but now its even sipler and easy to do with [CSS Grid](https://www.w3schools.com/css/css_grid.asp)!
 
 
 
