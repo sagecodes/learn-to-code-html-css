@@ -33,3 +33,26 @@ body {
     margin:0 auto;
     text-align: left;
   }
+
+  .grid {
+    max-width: 800px;
+    margin: 45px auto;
+    display: grid;
+    grid-gap: 20px;
+}
+
+#project-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px 200px 200px 200px;
+    padding: 20px;
+}
+
+.project {
+    text-align: center;
+    color: #fff;
+    padding: 25px;
+    background:#5e9eff;
+    border-radius: 0.3em;
+    box-shadow: 3px 3px 5px #888888;
+    text-decoration: none;
+}
