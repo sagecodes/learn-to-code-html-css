@@ -204,6 +204,19 @@ Learn more CSS [here](https://www.w3schools.com/css/)
 #### Events 
 We host sooo many events! check out out [calendar](https://www.galvanize.com/seattle/events)
 
+[Learn code](https://www.meetup.com/Learn-Code-Seattle/events/). Thats this meetup! We do workshops and community programming nights! 
+
+Upcoming Learn to code [events](https://www.meetup.com/Learn-Code-Seattle/events/):
+
+- [Code Hours](https://www.meetup.com/Learn-Code-Seattle/events/253455813/) - 8/21 6:30pm
+- [Intro to SQL](https://www.meetup.com/Learn-Code-Seattle/events/253466201/) - 8/30 6:30pm 
+- [Intro to Javascript](https://www.meetup.com/Learn-Code-Seattle/events/253466275/) - 9/06 6:30pm
+- [Intro to Git and GitHub](https://www.meetup.com/Learn-Code-Seattle/events/253466429/) - 9/19 6:30pm
+- [More!!!](https://www.meetup.com/Learn-Code-Seattle/events/)
+
+
+
+
 ## Questions:
 Please feel free to reach out to me with any questions!
 
