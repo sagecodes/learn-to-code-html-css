@@ -154,20 +154,76 @@ Its best practice now days to make sure your site if mobile responsive. It used 
 Basic Grid example:
 
 ```
+  .grid {
+    max-width: 800px;
+    margin: 45px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 200px 200px 200px 200px;
+    padding: 20px;
+}
 
 ```
 
 Flexible space example:
 
 ```
+  .grid {
+    max-width: 800px;
+    margin: 45px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px 200px 200px 200px;
+    padding: 20px;
+}
 
 ```
-
+minmax
 Auto fit (adjust on screen size):
 
 ```
+  .grid {
+    max-width: 800px;
+    margin: 45px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: minmax(200px, 300px) 1fr 1fr;
+    grid-template-rows: 200px 200px 200px 200px;
+    padding: 20px;
+}
 
 ```
+```
+  .grid {
+    max-width: 800px;
+    margin: 45px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3 minmax(200px, 300px));
+    grid-template-rows: 200px 200px 200px 200px;
+    padding: 20px;
+}
+
+```
+
+```
+
+  .grid {
+    max-width: 800px;
+    margin: 45px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-rows: 200px 200px 200px 200px;
+    padding: 20px;
+}
+```
+
+Use repeat fucntion
+
+repeat(3, 1fr)
 
 
 
@@ -193,8 +249,8 @@ Awesome job! You made a web page! You're a web developer! :)
 The best way to learn is to keep practicing and challenge yourself! Here are some ideas!
 
 - Design a new layout
-- Use CSS gride more on your site!
-- use CSS animations
+- Use multiple CSS grids on your site!
+- use CSS [transitions](https://www.w3schools.com/css/css3_transitions.asp) and [animations](https://www.w3schools.com/css/css3_animations.asp)
 
 Show off your project at the next [code hours](https://www.meetup.com/Learn-Code-Seattle/events/)!
 
