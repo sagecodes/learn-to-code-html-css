@@ -195,11 +195,8 @@ Learn more CSS [here](https://www.w3schools.com/css/)
 - [Data Analytics](https://www.galvanize.com/seattle/data-analytics)
 - [Web Development Foundations with JavaScript](https://www.galvanize.com/seattle/web-development-foundations)
 - [Data Science Fundamentals](https://www.galvanize.com/seattle/data-science-fundamentals)
-- [Front End Web Development](https://www.galvanize.com/seattle/front-end-web-development)
 
 
-#### Co-working Space
-[work in our building!](https://www.galvanize.com/entrepreneur)
 
 #### Events 
 We host sooo many events! check out out [calendar](https://www.galvanize.com/seattle/events)
@@ -215,7 +212,8 @@ Upcoming Learn to code [events](https://www.meetup.com/Learn-Code-Seattle/events
 - [More!!!](https://www.meetup.com/Learn-Code-Seattle/events/)
 
 
-
+#### Co-working Space
+[work in our building!](https://www.galvanize.com/entrepreneur)
 
 ## Questions:
 Please feel free to reach out to me with any questions!
