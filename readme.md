@@ -196,7 +196,7 @@ Learn more CSS [here](https://www.w3schools.com/css/)
 - [Web Development Foundations with JavaScript](https://www.galvanize.com/seattle/web-development-foundations)
 - [Data Science Fundamentals](https://www.galvanize.com/seattle/data-science-fundamentals)
 - [Front End Web Development](https://www.galvanize.com/seattle/front-end-web-development)
-- [React Intensive](https://www.galvanize.com/seattle/react-intensive)
+
 
 #### Co-working Space
 [work in our building!](https://www.galvanize.com/entrepreneur)
