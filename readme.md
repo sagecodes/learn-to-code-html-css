@@ -5,9 +5,9 @@
     - [VS Code](https://code.visualstudio.com/)
     - [Atom](https://atom.io/)
 - I also recommend using [chrome](https://www.google.com/chrome/) as a web browser
-- Create a [codepen](https://codepen.io/) account
+- Create a [codepen](https://codepen.io/) account 
 
-###### Download the files for this class:
+<!--###### Download the files for this class:
 1. Go to [https://github.com/GalvanizeOpenSource/l2c-html-css-2018](https://github.com/GalvanizeOpenSource/l2c-html-css-2018)
 2. Click on the button on the right-hand side that says "Download ZIP"
 3. Go to your downloads folder and double click on the .zip file to unzip it
@@ -16,11 +16,13 @@
 6. From Atom: If the file tree does not appear on the left hand View > Toggle Tree View -- this will show you the entire folder within Atom
 7. *Now if you already know some of what we're talking about,* you're all set to poke around in the files -- `index.html` and `CSS/style.css` are the two files we will using.
 8. The `examples` folder contains an example of a simple web page using HTML and CSS. If you get stuck you might want to refer to the example page.
-
+-->
  
 ## What this workshop is
 
-A super friendly introduction to web development with HTML and CSS! No previous experience expected!
+A super friendly introduction to web development with HTML and CSS! No previous experience expected! 
+
+You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! Come to our weekly code hours [meetups](https://www.meetup.com/Learn-Code-Seattle/events/) to ask questions if you get stuck and show off what you've been working on!
 
 - This course is for absolute beginners
 - Ask Questions!
@@ -29,8 +31,9 @@ A super friendly introduction to web development with HTML and CSS! No previous 
 - Help others when you can
 - Be patient and nice
 
+
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. 
+Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love technology! I'm currently learning more about how to build AI and VR projects! 
 
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
@@ -181,9 +184,17 @@ Learn more CSS [here](https://www.w3schools.com/css/)
 - align everything center (did everything align center?)
 
 ## Upcoming Events!
-[Galvanize Web Development Foundations with JavaScript - 7/23 - 8/29](https://www.eventbrite.com/e/galvanize-web-development-foundations-with-javascript-seattle-723-829-tickets-45261516414) - Use Coupon code `learn2code` for 10% off
+We host sooo many events! check out out [calendar](https://www.galvanize.com/seattle/events)
 
-[Galvanize Seattle Web Development Capstone Showcase (7/19)](https://www.eventbrite.com/e/galvanize-seattle-web-development-capstone-showcase-719-tickets-46775091558?aff=ebdssbdestsearch) See final projects of our graduating class!
+[Learn code](https://www.meetup.com/Learn-Code-Seattle/events/). Thats this meetup! We do workshops and community programming nights! 
+
+Upcoming Learn to code [events](https://www.meetup.com/Learn-Code-Seattle/events/):
+
+- [Code Hours](https://www.meetup.com/Learn-Code-Seattle/events/253455813/) - 8/21 6:30pm
+- [Intro to SQL](https://www.meetup.com/Learn-Code-Seattle/events/253466201/) - 8/30 6:30pm 
+- [Intro to Javascript](https://www.meetup.com/Learn-Code-Seattle/events/253466275/) - 9/06 6:30pm
+- [Intro to Git and GitHub](https://www.meetup.com/Learn-Code-Seattle/events/253466429/) - 9/19 6:30pm
+- [More!!!](https://www.meetup.com/Learn-Code-Seattle/events/)
 
 ## What is Galvanize?
 ###### We are a community!
@@ -196,20 +207,6 @@ Learn more CSS [here](https://www.w3schools.com/css/)
 - [Web Development Foundations with JavaScript](https://www.galvanize.com/seattle/web-development-foundations)
 - [Data Science Fundamentals](https://www.galvanize.com/seattle/data-science-fundamentals)
 
-
-
-#### Events 
-We host sooo many events! check out out [calendar](https://www.galvanize.com/seattle/events)
-
-[Learn code](https://www.meetup.com/Learn-Code-Seattle/events/). Thats this meetup! We do workshops and community programming nights! 
-
-Upcoming Learn to code [events](https://www.meetup.com/Learn-Code-Seattle/events/):
-
-- [Code Hours](https://www.meetup.com/Learn-Code-Seattle/events/253455813/) - 8/21 6:30pm
-- [Intro to SQL](https://www.meetup.com/Learn-Code-Seattle/events/253466201/) - 8/30 6:30pm 
-- [Intro to Javascript](https://www.meetup.com/Learn-Code-Seattle/events/253466275/) - 9/06 6:30pm
-- [Intro to Git and GitHub](https://www.meetup.com/Learn-Code-Seattle/events/253466429/) - 9/19 6:30pm
-- [More!!!](https://www.meetup.com/Learn-Code-Seattle/events/)
 
 
 #### Co-working Space
