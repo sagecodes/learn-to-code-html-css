@@ -5,6 +5,7 @@
     - [VS Code](https://code.visualstudio.com/)
     - [Atom](https://atom.io/)
 - I also recommend using [chrome](https://www.google.com/chrome/) as a web browser
+- Create a [codepen](https://codepen.io/) account
 
 ###### Download the files for this class:
 1. Go to [https://github.com/GalvanizeOpenSource/l2c-html-css-2018](https://github.com/GalvanizeOpenSource/l2c-html-css-2018)
