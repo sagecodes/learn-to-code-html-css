@@ -166,57 +166,16 @@ Basic Grid example:
 
 ```
 
-Flexible space example:
+Flexible space implicit example:
 
 ```
-  .grid {
-    max-width: 800px;
-    margin: 45px auto;
-    display: grid;
-    grid-gap: 20px;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 200px 200px 200px 200px;
-    padding: 20px;
-}
-
-```
-minmax
-Auto fit (adjust on screen size):
-
-```
-  .grid {
-    max-width: 800px;
-    margin: 45px auto;
-    display: grid;
-    grid-gap: 20px;
-    grid-template-columns: minmax(200px, 300px) 1fr 1fr;
-    grid-template-rows: 200px 200px 200px 200px;
-    padding: 20px;
-}
-
-```
-```
-  .grid {
-    max-width: 800px;
-    margin: 45px auto;
-    display: grid;
-    grid-gap: 20px;
-    grid-template-columns: repeat(3 minmax(200px, 300px));
-    grid-template-rows: 200px 200px 200px 200px;
-    padding: 20px;
-}
-
-```
-
-```
-
   .grid {
     max-width: 800px;
     margin: 45px auto;
     display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-template-rows: 200px 200px 200px 200px;
+    grid-auto-rows: 200px;
     padding: 20px;
 }
 ```
