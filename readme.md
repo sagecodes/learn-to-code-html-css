@@ -206,6 +206,8 @@ Learn more CSS [here](https://www.w3schools.com/css/)
 
 Awesome job! You made a web page! You're a web developer! :)
 
+you can see the completed codepen example [here](https://codepen.io/sagecodes/pen/PBvLvY?editors=1100) or look in the example folder in this repo.
+
 ## Challenge:
 The best way to learn is to keep practicing and challenge yourself! Here are some ideas!
 
