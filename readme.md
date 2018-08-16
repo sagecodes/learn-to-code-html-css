@@ -1,5 +1,7 @@
 # Introduction to HTML and CSS
 
+## Repo short URL [htmlrepo.sage.codes](https://github.com/sagecodes/learn-to-code-html-css)
+
 ## Do these things first!
 - Download and install a text editor
     - [VS Code](https://code.visualstudio.com/)
