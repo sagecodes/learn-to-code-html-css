@@ -38,12 +38,6 @@ body {
     padding: 20px;
 }
 
-/* #project-grid {
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 200px 200px 200px 200px;
-    padding: 20px;
-} */
-
 .project {
     text-align: center;
     color: #fff;

@@ -50,7 +50,7 @@ Give a quick Intro!
 
 ## What is HTML and CSS?
 
-Two of the main building block of the web!
+Two of the main building blocks of the web!
 
 - HTML (Hyper Text Markup Language)
 - CSS (Cascading Style Sheets)
