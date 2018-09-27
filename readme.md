@@ -93,7 +93,7 @@ Is there a "brain"? Yes! There are many languages that can used to access databa
 - `<ul>, <ol>` creates lists
   - `<li>` contains items in lists
 - `<br>`	Inserts a single line break
-- `<hr>`	Defines a thematic change in the content
+
 
 ###### Self-closing Tags:
 most HTML tags require an opening and a closing tag. There are a few however that do not:
@@ -101,6 +101,7 @@ most HTML tags require an opening and a closing tag. There are a few however tha
 - `<img src="">` creates an image in the page
 - `<br>` creates a break in the content
 - `<input type="">` creates an input field
+- `<hr>`	Creates a line in the page 
 
 ###### IDs, Classes
 IDs and classes are very similar.
@@ -197,14 +198,6 @@ repeat(3, 1fr)
 
 
 
-###### CSS Animations:
-
-
-
-
-
-
-
 Learn more CSS [here](https://www.w3schools.com/css/)
 
 ## Lets Write some CSS!
@@ -237,25 +230,30 @@ We host sooo many events! check out out [calendar](https://www.galvanize.com/sea
 
 [Learn code](https://www.meetup.com/Learn-Code-Seattle/events/). Thats this meetup! We do workshops and community programming nights! 
 
-Upcoming Learn to code [events](https://www.meetup.com/Learn-Code-Seattle/events/):
+Upcoming Learn to codes [events](https://www.meetup.com/Learn-Code-Seattle/events/):
 
-- [Code Hours](https://www.meetup.com/Learn-Code-Seattle/events/253455813/) - 8/21 6:30pm
-- [Intro to SQL](https://www.meetup.com/Learn-Code-Seattle/events/253466201/) - 8/30 6:30pm 
-- [Intro to Javascript](https://www.meetup.com/Learn-Code-Seattle/events/253466275/) - 9/06 6:30pm
-- [Intro to Git and GitHub](https://www.meetup.com/Learn-Code-Seattle/events/253466429/) - 9/19 6:30pm
-- [More!!!](https://www.meetup.com/Learn-Code-Seattle/events/)
+- [Data Science vs Data Analytics featuring Slalom Consulting](https://www.meetup.com/Learn-Code-Seattle/events/255004392/) - Wednesday, October 3, 2018
+6:30 PM to 8:00 PM
+
+- [Learn to Code Workshop: Intro to JavaScript](https://www.meetup.com/Learn-Code-Seattle/events/253466491/) - Thursday, October 4, 2018
+6:30 PM to 8:30 PM
+
+- [Galvanize Seattle Web Development Capstone Showcase (10/11)](https://www.meetup.com/Learn-Code-Seattle/events/255027751/) - Thursday, October 11, 2018
+3:00 PM to 6:00 PM
+
+- [Learn to Code Workshop: Intro to Machine Learning](https://www.meetup.com/Learn-Code-Seattle/events/253466541/) - Thursday, October 18, 2018
+6:30 PM to 8:30 PM
 
 ## What is Galvanize?
 ###### We are a community!
 #### Immersive Bootcamp
-- [Data Science](https://www.galvanize.com/seattle/data-science)
-- [Web Development](https://www.galvanize.com/seattle/web-development)
+- [Data Science](https://www.galvanize.com/seattle/data-science) - Jan/22 - Apr/26
+- [Web Development](https://www.galvanize.com/seattle/web-development) - TBD
 
 #### Part-Time Courses
-- [Data Analytics](https://www.galvanize.com/seattle/data-analytics)
-- [Web Development Foundations with JavaScript](https://www.galvanize.com/seattle/web-development-foundations)
-- [Data Science Fundamentals](https://www.galvanize.com/seattle/data-science-fundamentals)
-
+- [Data Analytics](https://www.galvanize.com/seattle/data-analytics) - Oct23 - Jan17
+- [Web Development Foundations with JavaScript](https://www.galvanize.com/seattle/web-development-foundations) - Oct8 - Nov14
+- [Data Science Fundamentals](https://www.galvanize.com/seattle/data-science-fundamentals) - Oct8 - Nov14
 
 
 #### Co-working Space
