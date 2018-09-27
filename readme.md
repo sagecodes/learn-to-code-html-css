@@ -37,9 +37,13 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love technology! I'm currently learning more about how to build AI and VR projects! 
+Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist at Galvanize Seattle. Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love technology! I'm currently learning more about how to build AI and VR projects (I can't wait to do a workshop round these topics)! 
 
-- Website: [sageelliott.com](sageelliott.com)
+*caveat* I'm not an Galvanize instructor, they're much better at teaching than I am!
+
+If you have an event you would like to see or put on let me know! I'm always looking for ideas. Talk to me after the workshop or find me online at one of these:
+
+- Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
@@ -69,6 +73,8 @@ CSS is similar to skin. It adds style and changes the appearance of the page.
 JavaScript is like the Muscle. It can change and move elements around on the page(not covered in this workshop). 
 
 Is there a "brain"? Yes! There are many languages that can used to access databases, perform complicated calculations and send/receive information. Some common languages: Javascript, Python, Ruby, PHP. 
+
+### Who uses HTML & CSS?
 
 
 ## HTML Basics
