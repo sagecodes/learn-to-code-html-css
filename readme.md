@@ -6,8 +6,9 @@
 - Download and install a text editor
     - [VS Code](https://code.visualstudio.com/)
     - [Atom](https://atom.io/)
-- I also recommend using [chrome](https://www.google.com/chrome/) as a web browser
-- Create a [codepen](https://codepen.io/) account 
+    - Or use an onlone editor like [codepen](https://codepen.io/) 
+- I also recommend using [chrome](https://www.google.com/chrome/) as a web browser.
+
 
 <!--###### Download the files for this class:
 1. Go to [https://github.com/GalvanizeOpenSource/l2c-html-css-2018](https://github.com/GalvanizeOpenSource/l2c-html-css-2018)
@@ -28,6 +29,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 - This course is for absolute beginners
 - Ask Questions!
+- Answer Questions!
 - Its ok to get stuck, just ask for help!
 - Feel free to move ahead
 - Help others when you can
@@ -37,6 +39,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 ## About me:
 Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love technology! I'm currently learning more about how to build AI and VR projects! 
 
+- Website: [sageelliott.com](sageelliott.com)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
@@ -186,6 +189,9 @@ Use repeat function
 
 repeat(3, 1fr)
 
+
+
+###### CSS Animations:
 
 
 
