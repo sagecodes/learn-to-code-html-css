@@ -82,7 +82,6 @@ Some Professional Roles that work with HTML & CSS:
 - Front-End Developer
 - Web Designer
 
-
 Some Companies that use HTML & CSS:
 
 - Google
@@ -131,11 +130,25 @@ See More tags [here](https://www.w3schools.com/tags/ref_byfunc.asp)
 Learn more HTML [here](https://www.w3schools.com/Html/)
 
 ## Lets Write some HTML!
-- Make a large header with the name of your site using an `<h1>` element
-- add a photo using the `<img>` element (remember `img` doesn't need a closing tag)
-- make a paragraph using the `<p>` element
-- make a smaller page header using the `<h2>` element
-- make an ordered or unordered list using the `<ol>`,``ul``, and `<li>` elements
+- 1. Make a large header with the name of your site using an `<h1>` element
+
+`<h1>Sage Elliott</h1>`
+
+- 2. add a photo using the `<img>` element (remember `img` doesn't need a closing tag) Use a image URL from social media or elsewhere! We're going to add an ID for styling later!
+
+`<img id="profile-picture" src="http://sageelliott.com/img/sage2016.jpg" title="Sage Elliott" alt="photo of Sage">`
+
+- 3. make a paragraph using the `<p>` element
+
+`<p>Hello I'm Sage Elliott!</p>`
+
+- 4. Create a link to another page (twitter, other)
+
+`<a class="btn" href="https://twitter.com/@sagecodes" title="@Sagecodes">Twitter</a>`
+
+- 5. make a smaller page header using the `<h2>` element
+
+`<h2>Projects:</h2>`
 
 ## CSS Basics
 
@@ -214,11 +227,85 @@ repeat(3, 1fr)
 Learn more CSS [here](https://www.w3schools.com/css/)
 
 ## Lets Write some CSS!
-- change the width of your image
-- change the background color
-- change the font color
-- style our link
-- align everything center (did everything align center?)
+
+- change the background and font color and look at some other styling options
+
+
+```
+body {
+    padding-top: 30px;
+    text-align: center;
+    font-family: Georgia, serif;
+    font-weight: normal;
+    color: #333;
+    font-size: 20px;
+    background: #fff;
+  }
+```
+
+
+- change the width of your image  and look at some other styling options
+
+```
+  #profile-picture {
+    width: 200px;
+    padding: 15px 0;
+    margin: 0 auto 0px;
+    border-radius: 20%;
+  }
+  
+```
+
+- Style our link into a button & and add a hover affect
+
+```
+  .btn {
+    background: #829aa8;
+    border: solid 1px #829aa8;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5%;
+  }
+  
+  .btn:hover {
+    background: #e8e8e8;
+    color: #829aa8;
+  }
+  
+```
+
+- Add some style to our Projects
+
+```
+  .project {
+    text-align: center;
+    color: #fff;
+    padding: 25px;
+    background:#5e9eff;
+    border-radius: 0.3em;
+    box-shadow: 3px 3px 5px #888888;
+    text-decoration: none;
+}
+
+```
+
+
+
+- Create a responsive Grid
+
+```
+  .grid {
+    max-width: 800px;
+    margin: 45px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: 200px;
+    padding: 20px;
+}
+```
+
 
 ## Congratulations
 

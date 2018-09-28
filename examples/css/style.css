@@ -27,6 +27,17 @@ body {
     background: #e8e8e8;
     color: #829aa8;
   }
+
+  .project {
+    text-align: center;
+    color: #fff;
+    padding: 25px;
+    background:#5e9eff;
+    border-radius: 0.3em;
+    box-shadow: 3px 3px 5px #888888;
+    text-decoration: none;
+}
+
   
   .grid {
     max-width: 800px;
@@ -38,12 +49,3 @@ body {
     padding: 20px;
 }
 
-.project {
-    text-align: center;
-    color: #fff;
-    padding: 25px;
-    background:#5e9eff;
-    border-radius: 0.3em;
-    box-shadow: 3px 3px 5px #888888;
-    text-decoration: none;
-}
