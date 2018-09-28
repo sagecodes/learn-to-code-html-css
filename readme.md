@@ -228,7 +228,7 @@ Learn more CSS [here](https://www.w3schools.com/css/)
 
 ## Lets Write some CSS!
 
-- change the background and font color and look at some other styling options
+- 1. change the background and font color and look at some other styling options
 
 
 ```
@@ -244,7 +244,7 @@ body {
 ```
 
 
-- change the width of your image  and look at some other styling options
+- 2. change the width of your image  and look at some other styling options
 
 ```
   #profile-picture {
@@ -256,7 +256,7 @@ body {
   
 ```
 
-- Style our link into a button & and add a hover affect
+- 3. Style our link into a button & and add a hover affect
 
 ```
   .btn {
@@ -275,7 +275,7 @@ body {
   
 ```
 
-- Add some style to our Projects
+- 4. Add some style to our Projects
 
 ```
   .project {
@@ -290,9 +290,7 @@ body {
 
 ```
 
-
-
-- Create a responsive Grid
+- 5. Create a responsive Grid
 
 ```
   .grid {
