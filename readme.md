@@ -39,7 +39,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 ## About me:
 Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist at Galvanize Seattle. Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love technology! I'm currently learning more about how to build AI and VR projects (I can't wait to do a workshop round these topics)! 
 
-*caveat* I'm not an Galvanize instructor, they're much better at teaching than I am!
+*caveat* I'm not an Galvanize instructor, they're much better at teaching than I am! :D
 
 If you have an event you would like to see or put on let me know! I'm always looking for ideas. Talk to me after the workshop or find me online at one of these:
 
@@ -76,6 +76,19 @@ Is there a "brain"? Yes! There are many languages that can used to access databa
 
 ### Who uses HTML & CSS?
 
+Some Professional Roles that work with HTML & CSS:
+
+- Full-Stack Web Developer
+- Front-End Developer
+- Web Designer
+
+
+Some Companies that use HTML & CSS:
+
+- Google
+- Facebook
+- Microsoft
+- Pretty much anyone with web products
 
 ## HTML Basics
 
@@ -221,8 +234,6 @@ The best way to learn is to keep practicing and challenge yourself! Here are som
 - use CSS [transitions](https://www.w3schools.com/css/css3_transitions.asp) and [animations](https://www.w3schools.com/css/css3_animations.asp)
 
 Show off your project at the next [code hours](https://www.meetup.com/Learn-Code-Seattle/events/)!
-
-
 
 
 ## Upcoming Events!
