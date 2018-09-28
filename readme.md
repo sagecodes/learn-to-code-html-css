@@ -10,6 +10,8 @@
 - I also recommend using [chrome](https://www.google.com/chrome/) as a web browser.
 
 
+WIFI: `Galvanize Guest Seattle` (no password)
+
 <!--###### Download the files for this class:
 1. Go to [https://github.com/GalvanizeOpenSource/l2c-html-css-2018](https://github.com/GalvanizeOpenSource/l2c-html-css-2018)
 2. Click on the button on the right-hand side that says "Download ZIP"
