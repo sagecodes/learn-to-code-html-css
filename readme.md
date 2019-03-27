@@ -9,8 +9,12 @@
     - Or use an onlone editor like [codepen](https://codepen.io/) 
 - I also recommend using [chrome](https://www.google.com/chrome/) as a web browser.
 
+### FAQ: 
 
-WIFI: `Galvanize Guest Seattle` (no password)
+- WIFI: `Galvanize Guest Seattle` | Password is posted on the wall
+- Bathrooms: Behind you down the hall to the left
+- Kitchen outside back classroom door with Coffee & Tea!
+- Snacks + water in back of room
 
 <!--###### Download the files for this class:
 1. Go to [https://github.com/GalvanizeOpenSource/l2c-html-css-2018](https://github.com/GalvanizeOpenSource/l2c-html-css-2018)
