@@ -322,44 +322,49 @@ The best way to learn is to keep practicing and challenge yourself! Here are som
 
 Show off your project at the next [code hours](https://www.meetup.com/Learn-Code-Seattle/events/)!
 
+## Keep Learning! 
+Start learning Software Engineering with our FREE online prep course!
+[https://www.galvanize.com/web-development/prep](https://www.galvanize.com/web-development/prep)
+
+Start learning Data Science with our FREE online prep course!
+Premium option is free if you sign up today! [http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
+
+[https://www.w3schools.com/](https://www.w3schools.com/) is a great resource for learnig more about web development!
+
 
 ## Upcoming Events!
-We host sooo many events! check out out [calendar](https://www.galvanize.com/seattle/events)
+We host many events! check out out our [meetup](https://www.meetup.com/Learn-Code-Seattle/events/) to stay up to date.
 
-[Learn code](https://www.meetup.com/Learn-Code-Seattle/events/). Thats this meetup! We do workshops and community programming nights! 
 
-Upcoming Learn to codes [events](https://www.meetup.com/Learn-Code-Seattle/events/):
+- Intro to Machine Learning with Python - 3/28 6:30 - 8:30pm
+- JavaScript Mini Bootcamp: Fundamentals II - 3/30 10am - 4:30pm
+- Intro to Data Analytics with Tableau - 4/04 6:30 - 8:30pm
+- JavaScript Mini Bootcamp: Fundamentals I - 4/13 10am - 4:30pm
+- JavaScript 101 - 4/17 6:30 - 8:30pm
 
-- [Data Science vs Data Analytics featuring Slalom Consulting](https://www.meetup.com/Learn-Code-Seattle/events/255004392/) - Wednesday, October 3, 2018
-6:30 PM to 8:00 PM
-
-- [Learn to Code Workshop: Intro to JavaScript](https://www.meetup.com/Learn-Code-Seattle/events/253466491/) - Thursday, October 4, 2018
-6:30 PM to 8:30 PM
-
-- [Galvanize Seattle Web Development Capstone Showcase (10/11)](https://www.meetup.com/Learn-Code-Seattle/events/255027751/) - Thursday, October 11, 2018
-3:00 PM to 6:00 PM
-
-- [Learn to Code Workshop: Intro to Machine Learning](https://www.meetup.com/Learn-Code-Seattle/events/253466541/) - Thursday, October 18, 2018
-6:30 PM to 8:30 PM
 
 ## What is Galvanize?
-###### We are a community!
+
 #### Immersive Bootcamp
-- [Data Science](https://www.galvanize.com/seattle/data-science) - Jan/22 - Apr/26
-- [Web Development](https://www.galvanize.com/seattle/web-development) - TBD
+
+- [Software Engineer](https://www.galvanize.com/web-development) - 4/8/19 - 7/5/19
+- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/6/19
+
 
 #### Part-Time Courses
-- [Data Analytics](https://www.galvanize.com/seattle/data-analytics) - Oct23 - Jan17
-- [Web Development Foundations with JavaScript](https://www.galvanize.com/seattle/web-development-foundations) - Oct8 - Nov14
-- [Data Science Fundamentals](https://www.galvanize.com/seattle/data-science-fundamentals) - Oct8 - Nov14
 
+- [Digital Marketing](https://www.galvanize.com/part-time/digital-marketing) - 5/13/19 - 6/7/19
 
 #### Co-working Space
+
 [work in our building!](https://www.galvanize.com/entrepreneur)
 
-## Questions:
-Please feel free to reach out to me with any questions!
+## Questions
 
+Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
+
+
+- Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
