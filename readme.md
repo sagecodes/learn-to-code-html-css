@@ -100,6 +100,7 @@ Some Professional Roles that work with HTML & CSS:
 - Full-Stack Web Developer
 - Front-End Developer
 - Web Designer
+- Email Developer
 
 Some Companies that use HTML & CSS:
 
