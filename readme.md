@@ -170,6 +170,21 @@ Learn more HTML [here](https://www.w3schools.com/Html/)
 
 `<h2>Projects:</h2>`
 
+- 6. Make links projects
+
+```
+<div class="grid" id="project-grid">
+    <a class="project" href="test">Project</a>
+    <a class="project" href="test">Project</a>
+    <a class="project" href="test">Project</a>
+    <a class="project" href="test">Project</a>
+    <a class="project" href="test">Project</a>
+    <a class="project" href="test">Project</a>
+    <a class="project" href="test">Project</a>
+</div>
+
+```  
+
 ## CSS Basics
 
 
