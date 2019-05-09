@@ -203,48 +203,7 @@ This example targets an ID `profile-picture` to change the width:
 
 Learn more CSS [here](https://www.w3schools.com/css/)
 
-###### CSS Grid
 
-Its best practice now days to make sure your site if mobile responsive. It used to be common to use a 3rd party library like [Bootstrap](https://getbootstrap.com/) to make a grid system to change where content is placed on a website depending on the size of the screen. It was also possible to do this using some simple math and [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), but now its even simpler and easy to do with [CSS Grid](https://www.w3schools.com/css/css_grid.asp)! Though things like bootstrap are still popular and good to learn!
-
-
-
-Basic Grid example:
-
-```
-  .grid {
-    max-width: 800px;
-    margin: 45px auto;
-    display: grid;
-    grid-gap: 20px;
-    grid-template-columns: 100px 100px 100px;
-    grid-template-rows: 200px 200px 200px 200px;
-    padding: 20px;
-}
-
-```
-
-Flexible space implicit example:
-
-```
-  .grid {
-    max-width: 800px;
-    margin: 45px auto;
-    display: grid;
-    grid-gap: 20px;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-auto-rows: 200px;
-    padding: 20px;
-}
-```
-
-Use repeat function
-
-repeat(3, 1fr)
-
-
-
-Learn more CSS [here](https://www.w3schools.com/css/)
 
 ## Lets Write some CSS!
 
@@ -309,6 +268,46 @@ body {
 }
 
 ```
+
+###### CSS Grid
+
+Its best practice now days to make sure your site if mobile responsive. It used to be common to use a 3rd party library like [Bootstrap](https://getbootstrap.com/) to make a grid system to change where content is placed on a website depending on the size of the screen. It was also possible to do this using some simple math and [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), but now its even simpler and easy to do with [CSS Grid](https://www.w3schools.com/css/css_grid.asp)! Though things like bootstrap are still popular and good to learn!
+
+
+
+Basic Grid example:
+
+```
+  .grid {
+    max-width: 800px;
+    margin: 45px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 200px 200px 200px 200px;
+    padding: 20px;
+}
+
+```
+
+Flexible space implicit example:
+
+```
+  .grid {
+    max-width: 800px;
+    margin: 45px auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: 200px;
+    padding: 20px;
+}
+```
+
+Use repeat function
+
+repeat(3, 1fr)
+
 
 - 5. Create a responsive Grid
 
