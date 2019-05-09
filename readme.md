@@ -2,6 +2,11 @@
 
 ## Repo short URL [htmlrepo.sage.codes](https://github.com/sagecodes/learn-to-code-html-css)
 
+
+Start Learning Data Science Basics with our [free Prep course](http://bit.ly/gprepdata)!
+
+Start Learning Web Development with our [free Prep course](http://bit.ly/gsoftprep)!
+
 ## Do these things first!
 - Download and install a text editor
     - [VS Code](https://code.visualstudio.com/)
@@ -17,7 +22,6 @@
 - Snacks + water in back of room
 
 <!--###### Download the files for this class:
-1. Go to [https://github.com/GalvanizeOpenSource/l2c-html-css-2018](https://github.com/GalvanizeOpenSource/l2c-html-css-2018)
 2. Click on the button on the right-hand side that says "Download ZIP"
 3. Go to your downloads folder and double click on the .zip file to unzip it
 4. IMPORTANT! Leave all the individual files in the downloaded folder (if you would like to move it out of the downloads folder move the entire folder, not individual items)
@@ -43,11 +47,20 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist at Galvanize Seattle. Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love technology! I'm currently learning more about how to build AI and VR projects (I can't wait to do a workshop round these topics)! 
+Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! 
 
-*caveat* I'm not an Galvanize instructor, they're much better at teaching than I am! :D
 
-If you have an event you would like to see or put on let me know! I'm always looking for ideas. Talk to me after the workshop or find me online at one of these:
+**Note:** I'm not a Galvanize Instructor, they're way better at teaching! 
+
+Reach out to me if interested in:
+
+- breaking into the tech industry 
+- learning resources
+- meetup recommendations 
+- learning more about Galvanize
+- giving me suggestions for events!
+- being friends
+
 
 - Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
@@ -61,7 +74,7 @@ Give a quick Intro!
 
 - Whats your name?
 - Whats your background?
-- Why are you interested in Web Development?
+- Why are you interested in Web Scraping?
 
 ## What is HTML and CSS?
 
@@ -93,6 +106,7 @@ Some Companies that use HTML & CSS:
 - Google
 - Facebook
 - Microsoft
+- Agencies
 - Pretty much anyone with web products
 
 ## HTML Basics
@@ -191,7 +205,7 @@ Learn more CSS [here](https://www.w3schools.com/css/)
 
 ###### CSS Grid
 
-Its best practice now days to make sure your site if mobile responsive. It used to be common to use a 3rd party library like Bootstrap to make a grid system to change where content is placed on a website depending on the size of the screen. It was also possible to do this using some simple math and [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), but now its even simpler and easy to do with [CSS Grid](https://www.w3schools.com/css/css_grid.asp)!
+Its best practice now days to make sure your site if mobile responsive. It used to be common to use a 3rd party library like [Bootstrap](https://getbootstrap.com/) to make a grid system to change where content is placed on a website depending on the size of the screen. It was also possible to do this using some simple math and [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), but now its even simpler and easy to do with [CSS Grid](https://www.w3schools.com/css/css_grid.asp)! Though things like bootstrap are still popular and good to learn!
 
 
 
@@ -326,42 +340,61 @@ The best way to learn is to keep practicing and challenge yourself! Here are som
 
 Show off your project at the next [code hours](https://www.meetup.com/Learn-Code-Seattle/events/)!
 
-## Keep Learning! 
-Start learning Software Engineering with our FREE online prep course!
-[https://www.galvanize.com/web-development/prep](https://www.galvanize.com/web-development/prep)
 
-Start learning Data Science with our FREE online prep course!
-Premium option is free if you sign up today! [http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
+
+# Keep Learning! 
+
+Start Learning Data Science Basics with our [free Prep course](http://bit.ly/gprepdata)!
+
+Start Learning Web Development with our [free Prep course](http://bit.ly/gsoftprep)!
 
 [https://www.w3schools.com/](https://www.w3schools.com/) is a great resource for learnig more about web development!
 
 
+
 ## Upcoming Events!
-We host many events! check out out our [meetup](https://www.meetup.com/Learn-Code-Seattle/events/) to stay up to date.
+
+We host so many events! check out our [calendar](https://www.galvanize.com/events)
+
+Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
 
-- Intro to Machine Learning with Python - 3/28 6:30 - 8:30pm
-- JavaScript Mini Bootcamp: Fundamentals II - 3/30 10am - 4:30pm
-- Intro to Data Analytics with Tableau - 4/04 6:30 - 8:30pm
-- JavaScript Mini Bootcamp: Fundamentals I - 4/13 10am - 4:30pm
-- JavaScript 101 - 4/17 6:30 - 8:30pm
+# What is Galvanize?
+
+> We create a technology ecosystem for learners, entrepreneurs, startups and established companies to meet the needs of the rapidly changing digital world.
+
+![](https://github.com/sagecodes/intro-data-science/raw/master/campus.png)
+
+- Education
+- Co-Working
+- Events
+- Enterprise
 
 
-## What is Galvanize?
+## Galvanize Classes
 
 #### Immersive Bootcamp
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 4/8/19 - 7/5/19
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/6/19
+Transform your career with our 13 week immersive programs
+
+- [Software Engineer](http://bit.ly/seawebdev) - 6/3/19 - 10/11/19
+- [Data Science](http://bit.ly/seadatascience) - 5/6/19 - 8/2/19
 
 
 #### Part-Time Courses
 
-- [Digital Marketing](https://www.galvanize.com/part-time/digital-marketing) - 5/13/19 - 6/7/19
+Learn while working with out evening part-time classes
+
+- [Intro to Data Science](http://bit.ly/seaintrods) - 5/7/19 - 6/27/19
+
+- [Digital Marketing](http://bit.ly/seadm) - 5/13/19 - 7/3/19
+
+- [Data Analytics](http://bit.ly/seadataa) - 5/6/19 - 7/24/19
 
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
+
 
 ## Questions
 
