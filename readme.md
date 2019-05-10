@@ -352,6 +352,10 @@ The best way to learn is to keep practicing and challenge yourself! Here are som
 - Design a new layout
 - Use multiple CSS grids on your site!
 - use CSS [transitions](https://www.w3schools.com/css/css3_transitions.asp) and [animations](https://www.w3schools.com/css/css3_animations.asp)
+- Add menu items to the top
+- Make another page and link to it
+
+
 
 Show off your project at the next [code hours](https://www.meetup.com/Learn-Code-Seattle/events/)!
 
