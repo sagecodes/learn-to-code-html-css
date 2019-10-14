@@ -30,6 +30,14 @@ Start Learning Web Development with our [free Prep course](http://bit.ly/gsoftpr
 7. *Now if you already know some of what we're talking about,* you're all set to poke around in the files -- `index.html` and `CSS/style.css` are the two files we will using.
 8. The `examples` folder contains an example of a simple web page using HTML and CSS. If you get stuck you might want to refer to the example page.
 -->
+
+## Setting up options:
+
+Code pen:
+
+Local:
+
+
  
 ## What this workshop is
 
@@ -287,7 +295,7 @@ body {
 
 ###### CSS Grid
 
-Its best practice now days to make sure your site if mobile responsive. It used to be common to use a 3rd party library like [Bootstrap](https://getbootstrap.com/) to make a grid system to change where content is placed on a website depending on the size of the screen. It was also possible to do this using some simple math and [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), but now its even simpler and easy to do with [CSS Grid](https://www.w3schools.com/css/css_grid.asp)! Though things like bootstrap are still popular and good to learn!
+Its best practice now days to make sure your site if mobile responsive. It used to be common to use a 3rd party library like [Bootstrap](https://getbootstrap.com/) to make a grid system to change where content is placed on a website depending on the size of the screen. It was also possible to do this using some simple math and [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), but now its even simpler and easy to do with [CSS Grid](https://www.w3schools.com/css/css_grid.asp)! Though things like bootstrap are still popular and good to learn(we'll look at it next)!
 
 
 
@@ -340,6 +348,16 @@ repeat(3, 1fr)
 ```
 
 
+## bootstrap!
+
+Lets play around with some bootstrap and see how quick we can build nice components
+
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
+
+https://getbootstrap.com/docs/4.3/components/alerts/
+
+
+
 ## Congratulations
 
 Awesome job! You made a web page! You're a web developer! :)
@@ -357,8 +375,6 @@ The best way to learn is to keep practicing and challenge yourself! Here are som
 
 
 
-Show off your project at the next [code hours](https://www.meetup.com/Learn-Code-Seattle/events/)!
-
 
 
 # Keep Learning! 
@@ -373,9 +389,9 @@ Start Learning Web Development with our [free Prep course](http://bit.ly/gsoftpr
 
 ## Upcoming Events!
 
-We host so many events! check out our [calendar](https://www.galvanize.com/events)
-
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+
+More events will be posted for June soon! 
 
 
 # What is Galvanize?
@@ -394,21 +410,22 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 #### Immersive Bootcamp
 
-Transform your career with our 13 week immersive programs
+Transform your career with our immersive programs
 
-- [Software Engineer](http://bit.ly/seawebdev) - 6/3/19 - 10/11/19
-- [Data Science](http://bit.ly/seadatascience) - 5/6/19 - 8/2/19
+- [Software Engineer](http://bit.ly/seawebdev) - 10/21/19 & 2/10/2020
+- [Data Science](http://bit.ly/seadatascience) - 12/2/19 & 3/16/2020
+
+Remote options:
+
+check out [Galvanize.com](https://www.galvanize.com/)
 
 
 #### Part-Time Courses
 
 Learn while working with out evening part-time classes
 
-- [Intro to Data Science](http://bit.ly/seaintrods) - 5/7/19 - 6/27/19
+[Galvanize.com](https://www.galvanize.com/)
 
-- [Digital Marketing](http://bit.ly/seadm) - 5/13/19 - 7/3/19
-
-- [Data Analytics](http://bit.ly/seadataa) - 5/6/19 - 7/24/19
 
 #### Co-working Space
 
