@@ -7,6 +7,13 @@ Start Learning Data Science Basics with our [free Prep course](http://bit.ly/gpr
 
 Start Learning Web Development with our [free Prep course](http://bit.ly/gsoftprep)!
 
+### FAQ: 
+
+- WIFI: `Galvanize Guest Seattle` | Password is posted on the wall
+- Bathrooms: Behind you down the hall to the left
+- Kitchen outside back classroom door with Coffee & Tea!
+- Snacks + water in back of room
+
 ## Do these things first!
 - Download and install a text editor
     - [VS Code](https://code.visualstudio.com/)
@@ -14,12 +21,7 @@ Start Learning Web Development with our [free Prep course](http://bit.ly/gsoftpr
     - Or use an onlone editor like [codepen](https://codepen.io/) 
 - I also recommend using [chrome](https://www.google.com/chrome/) as a web browser.
 
-### FAQ: 
 
-- WIFI: `Galvanize Guest Seattle` | Password is posted on the wall
-- Bathrooms: Behind you down the hall to the left
-- Kitchen outside back classroom door with Coffee & Tea!
-- Snacks + water in back of room
 
 <!--###### Download the files for this class:
 2. Click on the button on the right-hand side that says "Download ZIP"
