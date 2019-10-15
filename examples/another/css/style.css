@@ -67,3 +67,7 @@ color: #829aa8;
     grid-auto-rows: 200px;
     padding: 20px;
 }
+
+#projects{
+    background: red;
+}

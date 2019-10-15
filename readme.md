@@ -314,7 +314,8 @@ Basic Grid example:
 
 ```
 
-Flexible space implicit example:
+Flexible example:
+
 
 ```
   .grid {
@@ -328,33 +329,59 @@ Flexible space implicit example:
 }
 ```
 
-Use repeat function
-
-repeat(3, 1fr)
+[Here](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns) if a good break down of the grid properties.
 
 
-- 5. Create a responsive Grid
+### floats
+
+Sometimes you'll want to "detach" and element from it's natural placement and move it around. 
+
+Example: Lets add a max width to our paragraph so it look better.
 
 ```
-  .grid {
-    max-width: 800px;
-    margin: 45px auto;
-    display: grid;
-    grid-gap: 20px;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-auto-rows: 200px;
-    padding: 20px;
+
+p {
+    max-width: 500px;
+}
+
+```
+
+That put a width on our paragraph, but now its moving to the side...
+
+This is just one "fun" example of HTML & CSS doing some funky alignment things. You will get to see things like this alot! 
+
+
+Lets use [float](https://www.w3schools.com/cssref/pr_class_float.asp) to get our paragraph back in the center.
+
+```
+p {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 ```
+
+
+### Divs & Sections
+
+We saw `div` tag being used in our grid. What is that?
+
+Lets use it to change the background color of our project section.
+
+
 
 
 ## bootstrap!
 
 Lets play around with some bootstrap and see how quick we can build nice components
 
-https://getbootstrap.com/docs/4.3/getting-started/introduction/
+How to setup boot strap
 
-https://getbootstrap.com/docs/4.3/components/alerts/
+[https://getbootstrap.com/docs/4.3/getting-started/introduction/](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
+Components
+
+[https://getbootstrap.com/docs/4.3/components/alerts/](https://getbootstrap.com/docs/4.3/components/alerts/)
 
 
 
