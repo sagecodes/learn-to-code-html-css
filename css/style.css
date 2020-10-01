@@ -3,13 +3,13 @@ General Styles
 ================================================ */
 
 h1 {
-    font-size: 60px;
+    font-size: 62px;
     font-weight: bold;
     color: #8a22ad;
 }
 
 p {
-    max-width: 500px;
+    max-width: 505px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -38,7 +38,7 @@ body {
     color: #fff;
     padding: 10px;
     text-decoration: none;
-    border-radius: 5%;
+    border-radius: 6%;
     }
     
 .btn:hover {
@@ -51,7 +51,7 @@ color: #829aa8;
 .project {
     text-align: center;
     color: #fff;
-    padding: 25px;
+    padding: 24px;
     background:#5e9eff;
     border-radius: 0.3em;
     box-shadow: 3px 3px 5px #888888;
@@ -62,8 +62,8 @@ color: #829aa8;
     max-width: 800px;
     margin: 45px auto;
     display: grid;
-    grid-gap: 20px;
+    grid-gap: 18px;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-auto-rows: 200px;
-    padding: 20px;
+    padding: 21px;
 }
